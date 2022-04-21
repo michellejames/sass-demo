@@ -1,0 +1,24 @@
+/* 0. Breakpoints ==================================== */
+// Small tablets and large smartphones (landscape view)
+$breakpoint-phone: 576px;
+
+// Small tablets (portrait view)
+$breakpoint-tablet: 768px;
+
+// Tablets and small desktops
+$breakpoint-desktop: 992px;
+
+// Large tablets and desktops
+$breakpoint-xl: 1200px;
+
+/* 1. Colors ========================================= */
+
+$white: #fff;
+$blue: #151e46;
+$pink: rgb(211, 22, 130);
+
+/* 2. Fonts  ========================================= */
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500&display=swap");
+
+$main-font: "Noto Sans TC", sans-serif;
